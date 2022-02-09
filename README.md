@@ -16,7 +16,7 @@ While training the model, we need to modify each epoch's weights and minimizw th
 Thus,it helps in reducing the overall loss and improve the accuracy.
 
 Various optimizers :
-8 Gradient Descent
+* Gradient Descent
 * Stochastic Gradient Descent
 * Mini-Batch Gradient Descent
 * Adagrad
