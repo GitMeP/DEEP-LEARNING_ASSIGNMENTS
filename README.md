@@ -26,4 +26,5 @@ Various optimizers :
 
 
 **ASSIGNMENT-2**
-We are simply implementing the mean squared error with and without using numpy.
+
+--> We are simply implementing the mean squared error with and without using numpy.
