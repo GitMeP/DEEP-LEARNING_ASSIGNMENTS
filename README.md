@@ -1,7 +1,7 @@
 # DEEP-LEARNING_ASSIGNMENTS
-ASSIGNMENT-1 
+**ASSIGNMENT-1**
 
-In this we have taken the Wine Datatset in which we have performed the MLP Classifier(Multi-Layer Perceptron Classifier).
+--> In this we have taken the Wine Datatset in which we have performed the MLP Classifier(Multi-Layer Perceptron Classifier).
 
 MLP Classifier is a type of Artificial Neural Network(ANN).Simplest MLP consist of at least three layers of nodes:
 * An Input Layer
@@ -23,3 +23,7 @@ Various optimizers :
 * RMSProp
 * AdaDelta
 * Adam
+
+
+**ASSIGNMENT-2**
+We are simply implementin the mean squared error with and without using numpy.
